@@ -1,9 +1,23 @@
 # Fotoblog
-Fotoblog é um projeto de site responsivo desenvolvido utilizando apenas HTML e CSS. O foco principal do projeto é criar um layout simples e eficiente para postagens de fotos, proporcionando uma experiência visual agradável ao usuário. O design utiliza CSS Grid Layout para estruturar as postagens de forma organizada e flexível, garantindo que o site se adapte bem a diferentes tamanhos de tela.
 
-Além da estrutura responsiva, o Fotoblog conta com animações e transições suaves, trazendo dinamismo às interações do usuário, como na exibição das fotos. Esse projeto foi uma oportunidade de praticar e demonstrar habilidades em layout moderno com CSS Grid e explorar efeitos de animação para melhorar a usabilidade e a estética do site.
+**Fotoblog** é um projeto de site responsivo desenvolvido utilizando apenas HTML e CSS. O foco principal do projeto é criar um layout simples e eficiente para postagens de fotos, proporcionando uma experiência visual agradável ao usuário.
 
-![image](https://github.com/user-attachments/assets/35aed1d6-49bb-4c26-af2e-c66ba6af2d63)
+## Funcionalidades
 
+- **Layout Responsivo**: O site foi projetado com o CSS Grid Layout para garantir que as postagens de fotos sejam exibidas de forma organizada e flexível, adaptando-se bem a diferentes tamanhos de tela.
 
- 
+- **Animações e Transições Suaves**: O Fotoblog conta com efeitos de animação que tornam as interações com as fotos mais dinâmicas e envolventes. As transições suaves melhoram a experiência do usuário ao navegar pelo site.
+
+- **Estrutura Simples e Intuitiva**: O foco está em uma interface clean e minimalista, permitindo que as fotos sejam o destaque principal, sem distrações desnecessárias.
+
+## Tecnologias Utilizadas
+
+- **HTML**: Para a estruturação das páginas e organização do conteúdo.
+- **CSS (CSS Grid)**: Utilizado para criar o layout responsivo, além de aplicar estilos e animações no site.
+
+## Como Usar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/fotoblog.git
+[Fotoblog](https://mviniciussb.github.io/Fotoblog/)
